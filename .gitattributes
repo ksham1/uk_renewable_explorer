@@ -1,0 +1,3 @@
+# Preserve the official extract byte-for-byte; avoid printing large dataset diffs.
+data/raw/* -text -diff
+public/data/projects.json -diff

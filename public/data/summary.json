@@ -1,0 +1,30 @@
+{
+  "source_url": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
+  "csv_url": "https://assets.publishing.service.gov.uk/media/6a6cbdc00c36759b5ccaa305/REPD_Publication_Q2_2026.csv",
+  "dataset": "July 2026 \u00b7 Q2 extract",
+  "publication_date": "2026-08-03",
+  "total_records": 14657,
+  "included": 11097,
+  "excluded": 3560,
+  "exclusion_reasons": {
+    "Decommissioned": 32,
+    "Planning Application Withdrawn": 671,
+    "Planning Permission Refused": 920,
+    "Abandoned": 391,
+    "Appeal Refused": 316,
+    "Revised": 826,
+    "Appeal Withdrawn": 49,
+    "Planning Permission Expired": 334,
+    "Secretary of State - Refusal": 21
+  },
+  "status_counts": {
+    "Operational": 3132,
+    "Under construction": 457,
+    "Consented": 5963,
+    "Planning": 1545
+  },
+  "unmapped": 37,
+  "missing_capacity": 1123,
+  "flagged_records": 1171,
+  "sha256": "84c1b5f958a934d8b4b86ec88f50bdcf43830ded7ff2efc27bffca0c98695035"
+}
